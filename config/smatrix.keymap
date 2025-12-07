@@ -148,10 +148,10 @@
 
         layer_1 {
             bindings = <
-&trans  &trans  &trans          &kp UP_ARROW    &trans           &trans                    &trans           &kp EQUAL         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans       &kp DEL
-&trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans                    &kp TILDE        &kp MINUS         &kp GRAVE             &trans                 &kp HOME     &kp PAGE_UP
-&trans  &trans  &trans          &trans          &trans           &trans  &trans    &trans  &kp EXCLAMATION  &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans                 &kp END      &mt PAGE_DOWN PAGE_DOWN
-&trans  &trans  &trans          &trans          &trans           &trans                    &trans           &trans            &trans                &bootloader            &bootloader  &bootloader
+&trans  &trans        &trans          &kp UP_ARROW    &trans           &trans                    &trans           &kp EQUAL         &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans       &kp DEL
+&trans  &trans        &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans                    &kp TILDE        &kp MINUS         &kp GRAVE             &trans                 &kp HOME     &kp PAGE_UP
+&trans  &bt BT_SEL 0  &bt BT_SEL 1    &bt BT_SEL 2    &bt BT_SEL 3     &trans  &trans    &trans  &kp EXCLAMATION  &kp LEFT_BRACKET  &kp RIGHT_BRACKET     &trans                 &kp END      &mt PAGE_DOWN PAGE_DOWN
+&trans  &trans        &trans          &trans          &trans           &trans                    &trans           &trans            &trans                &bootloader            &bootloader  &bootloader
             >;
 
             sensor-bindings = <&rot_kp C_VOL_UP C_VOL_DN    &mouse_scrl SCRL_UP SCRL_DOWN>;
