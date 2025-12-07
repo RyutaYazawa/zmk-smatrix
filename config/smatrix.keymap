@@ -51,13 +51,18 @@
             #sensor-binding-cells = <2>;
             bindings = <&kp>, <&kp>;
         };
+
         td_lang: td-lang {
             compatible = "zmk,behavior-tap-dance";
             label = "TD_LANG";
             #binding-cells = <0>;
+
             // 連打の締切を調整。200ms前後が標準。遅い/速いと感じたら微調整。
+
             tapping-term-ms = <220>;
+
             // 単タップ → LANG1、ダブルタップ → LANG2
+
             bindings = <&kp LANG1>, <&kp LANG2>;
         };
 
@@ -73,6 +78,13 @@
             bindings = <&msc>, <&msc>;
 
             tap-ms = <10>;
+        };
+
+        c_for_prtsc: c_for_prtsc {
+            compatible = "zmk,behavior-tap-dance";
+            label = "C_FOR_PRTSC";
+            #binding-cells = <0>;
+            bindings = <&kp C>, <&kp PRINTSCREEN>;
         };
 
         macro_w_sshot: macro_w_sshot {
@@ -123,15 +135,15 @@
 
         default_layer {
             bindings = <
-&kp ESCAPE      &kp Q           &kp W     &kp E           &kp R        &kp T                                       &kp Y         &kp U          &kp I      &kp O       &kp P      &kp BACKSPACE
-&kp LC(TAB)     &kp A           &kp S     &kp D           &kp F        &kp G                                       &kp H         &kp J          &kp K      &kp L       &kp SEMI   &kp ENTER
-&kp LCTRL       &kp Z           &kp X     &kp C           &kp V        &kp B      &macro_w_TMute    &kp C_AC_COPY  &kp N         &kp M          &kp COMMA  &kp PERIOD  &kp SLASH  &mt RSHFT SLASH
-&kp LEFT_SHIFT  &macro_w_sshot  &kp LGUI  &mt LALT SPACE  &lt 1 SPACE  &kp SPACE                                   &kp KP_ENTER  &lt 2 SPACE  &td_lang    &kp LEFT    &kp DOWN   &kp RIGHT
+&kp ESCAPE   &kp Q           &kp W     &kp E           &kp R        &kp T                                   &kp Y         &kp U        &kp I      &kp O       &kp P      &kp BACKSPACE
+&kp LC(TAB)  &kp A           &kp S     &kp D           &kp F        &kp G                                   &kp H         &kp J        &kp K      &kp L       &kp SEMI   &kp SQT
+&kp LCTRL    &kp Z           &kp X     &kp C           &kp V        &kp B      &bt BT_NXT    &kp C_AC_COPY  &kp N         &kp M        &kp COMMA  &kp PERIOD  &kp SLASH  &kp RCTRL
+&kp LSHIFT   &macro_w_sshot  &kp LGUI  &mt LALT SPACE  &lt 1 SPACE  &kp SPACE                               &kp KP_ENTER  &lt 2 SPACE  &td_lang   &kp LEFT    &kp DOWN   &mt K_COPY K_COPY
             >;
 
             sensor-bindings =
                 <&mouse_scrl SCRL_UP SCRL_DOWN>,
-                <&inc_dec_kp LEFT_ARROW RIGHT_ARROW>;
+                <&rot_kp RIGHT LEFT>;
         };
 
         layer_1 {
