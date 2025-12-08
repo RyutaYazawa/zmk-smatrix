@@ -87,47 +87,12 @@
             bindings = <&kp C>, <&kp PRINTSCREEN>;
         };
 
-        macro_w_sshot: macro_w_sshot {
-            compatible = "zmk,behavior-macro";
-            label = "Win Screenshot Macro";
+        tab_to_esc: tab_to_esc {
+            compatible = "zmk,behavior-tap-dance";
+            label = "TAB_TO_ESC";
             #binding-cells = <0>;
-            bindings =
-                <&macro_press>,
-                <&kp LGUI &kp LSHFT>,
-                <&macro_tap>,
-                <&kp S>,
-                <&macro_release>,
-                <&kp LGUI &kp LSHFT>;
+            bindings = <&kp TAB>, <&kp ESC>;
         };
-
-        macro_m_sshot: macro_m_sshot {
-            compatible = "zmk,behavior-macro";
-            label = "Mac Screenshot Macro";
-            #binding-cells = <0>;
-            bindings =
-                <&macro_press>,
-                <&kp LGUI &kp LSHFT>,
-                <&macro_tap>,
-                <&kp N4>,
-                <&macro_release>,
-                <&kp LGUI &kp LSHFT>;
-        };
-
-        macro_w_TMute: macro_w_TMute {
-            compatible = "zmk,behavior-macro";
-            label = "Win Teams Mic Mute";
-            #binding-cells = <0>;
-            bindings =
-                <&macro_press>,
-                <&kp LGUI &kp LALT>,
-                <&macro_tap>,
-                <&kp K>,
-                <&macro_release>,
-                <&kp LGUI &kp LALT>;
-        };
-    };
-
-    macros {
     };
 
     keymap {
@@ -135,10 +100,10 @@
 
         default_layer {
             bindings = <
-&kp ESCAPE       &kp Q                 &kp W     &kp E           &kp R        &kp T                                   &kp Y         &kp U        &kp I      &kp O       &kp P      &kp BACKSPACE
-&kp LC(TAB)      &kp A                 &kp S     &kp D           &kp F        &kp G                                   &kp H         &kp J        &kp K      &kp L       &kp SEMI   &kp SQT
-&kp LCTRL        &kp Z                 &kp X     &c_for_prtsc    &kp V        &kp B      &bt BT_NXT    &kp C_AC_COPY  &kp N         &kp M        &kp COMMA  &kp PERIOD  &kp SLASH  &kp RCTRL
-&kp RIGHT_SHIFT  &lt 3 K_CONTEXT_MENU  &kp LGUI  &mt LALT SPACE  &lt 1 SPACE  &kp SPACE                               &kp KP_ENTER  &lt 2 SPACE  &td_lang   &kp UP      &kp DOWN   &kp RC(C)
+&tab_to_esc  &kp Q                 &kp W     &kp E           &kp R        &kp T                                   &kp Y         &kp U        &kp I      &kp O       &kp P      &kp BACKSPACE
+&kp LCTRL    &kp A                 &kp S     &kp D           &kp F        &kp G                                   &kp H         &kp J        &kp K      &kp L       &kp SEMI   &kp SQT
+&kp LSHFT    &kp Z                 &kp X     &c_for_prtsc    &kp V        &kp B      &bt BT_NXT    &kp C_AC_COPY  &kp N         &kp M        &kp COMMA  &kp PERIOD  &kp SLASH  &kp RCTRL
+&tog 0       &lt 3 K_CONTEXT_MENU  &kp LGUI  &mt LALT SPACE  &lt 1 SPACE  &kp SPACE                               &kp KP_ENTER  &lt 2 SPACE  &td_lang   &kp UP      &kp DOWN   &kp RC(C)
             >;
 
             sensor-bindings =
