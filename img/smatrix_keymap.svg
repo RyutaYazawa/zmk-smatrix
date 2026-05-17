@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="1100">
+  <rect width="816" height="1100" fill="#f5f7fa"/>
+  <!-- Layer 0 — Default (VIAL adapted) -->
+<g transform="translate(0,0)">
+<text x="24" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#334466">Layer 0 — Default (VIAL adapted)</text>
+<g transform="translate(0,20)">
+<rect x="24.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">TAB</text>
+<text x="59.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">ESC↑↑</text>
+<rect x="96.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Q</text>
+<rect x="144.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">W</text>
+<rect x="192.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">E</text>
+<rect x="240.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">R</text>
+<rect x="288.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">T</text>
+<rect x="480.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Y</text>
+<rect x="528.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">U</text>
+<rect x="576.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">I</text>
+<rect x="624.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">O</text>
+<rect x="672.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">P</text>
+<rect x="720.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">BSPC</text>
+<rect x="24.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">CTRL</text>
+<rect x="96.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">A</text>
+<rect x="144.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">S</text>
+<rect x="192.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">D</text>
+<rect x="240.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">F</text>
+<rect x="288.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">G</text>
+<rect x="480.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">H</text>
+<rect x="528.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">J</text>
+<rect x="576.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">K</text>
+<rect x="624.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">L</text>
+<rect x="672.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">;</text>
+<rect x="720.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">'</text>
+<rect x="24.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">SHFT</text>
+<rect x="96.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Z</text>
+<text x="119.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">▼Ly2</text>
+<rect x="144.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">X</text>
+<rect x="192.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">C</text>
+<text x="215.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">x2=PRT</text>
+<rect x="240.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">V</text>
+<rect x="288.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">B</text>
+<rect x="336.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">BT+</text>
+<text x="359.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="432.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">COPY</text>
+<text x="455.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="480.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">N</text>
+<rect x="528.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">M</text>
+<rect x="576.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">,</text>
+<rect x="624.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">.</text>
+<rect x="672.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">/</text>
+<rect x="720.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">CTRL</text>
+<rect x="24.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">tog0</text>
+<rect x="96.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">⌘GUI</text>
+<rect x="144.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">★Ly3</text>
+<rect x="192.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="227.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">ALT</text>
+<text x="227.0" y="207.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">SPC?</text>
+<rect x="264.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="299.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Ly1</text>
+<text x="299.0" y="207.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">SPACE</text>
+<rect x="336.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#f0f0f8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">SPC</text>
+<rect x="432.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#f0f0f8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">ENT</text>
+<rect x="480.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="515.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Ly2</text>
+<text x="515.0" y="207.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">SPACE</text>
+<rect x="552.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="587.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">Ly4</text>
+<text x="587.0" y="207.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">→BT/F</text>
+<rect x="624.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">↑</text>
+<rect x="672.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">↓</text>
+<rect x="720.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">C-c</text>
+</g></g>
+  <!-- Layer 1 — Raise / MO(1)  [nav + sym] -->
+<g transform="translate(0,270)">
+<text x="24" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#334466">Layer 1 — Raise / MO(1)  [nav + sym]</text>
+<g transform="translate(0,20)">
+<rect x="24.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="8" fill="#1a2030" font-weight="600">LANG1</text>
+<rect x="192.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">↑</text>
+<rect x="240.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="8" fill="#1a2030" font-weight="600">LANG2</text>
+<rect x="288.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">.</text>
+<rect x="528.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">=</text>
+<rect x="576.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">\</text>
+<rect x="624.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">HOME</text>
+<rect x="720.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">PgUp</text>
+<rect x="24.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">←</text>
+<rect x="192.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">↓</text>
+<rect x="240.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">→</text>
+<rect x="288.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">PgUp</text>
+<rect x="480.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">~</text>
+<rect x="528.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">-</text>
+<rect x="576.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">`</text>
+<text x="599.0" y="111.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">GRAVE</text>
+<rect x="624.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">END</text>
+<rect x="720.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">PgDn</text>
+<rect x="24.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">HOME</text>
+<rect x="192.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="8" fill="#1a2030" font-weight="600">PRTSC</text>
+<rect x="240.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">END</text>
+<rect x="288.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">PgDn</text>
+<rect x="336.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="359.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="432.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="455.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="480.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">KP/</text>
+<rect x="528.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">[</text>
+<rect x="576.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">]</text>
+<rect x="624.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">/</text>
+<rect x="720.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="227.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="264.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="299.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">▼Ly1</text>
+<text x="299.0" y="207.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">HOLD</text>
+<rect x="336.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="432.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="515.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="552.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="587.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="624.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">boot</text>
+<rect x="672.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">boot</text>
+<rect x="720.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#c8e8c8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="10" fill="#1a2030" font-weight="600">boot</text>
+</g></g>
+  <!-- Layer 2 — Numpad  [Z hold] -->
+<g transform="translate(0,540)">
+<text x="24" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#334466">Layer 2 — Numpad  [Z hold]</text>
+<g transform="translate(0,20)">
+<rect x="24.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="240.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="288.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">7</text>
+<rect x="528.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">8</text>
+<rect x="576.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">9</text>
+<rect x="624.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="240.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="288.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">4</text>
+<rect x="528.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">5</text>
+<rect x="576.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">6</text>
+<rect x="624.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▼Z</text>
+<text x="119.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">HOLD</text>
+<rect x="144.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="240.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="288.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="336.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="359.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="432.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="455.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="480.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">1</text>
+<rect x="528.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">2</text>
+<rect x="576.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">3</text>
+<rect x="624.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">0</text>
+<rect x="672.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="227.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="264.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="299.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="336.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="432.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="515.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="552.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="587.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="624.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+</g></g>
+  <!-- Layer 3 — Lower / MO(3)  [symbols] -->
+<g transform="translate(0,810)">
+<text x="24" y="15" font-family="sans-serif" font-size="12" font-weight="bold" fill="#334466">Layer 3 — Lower / MO(3)  [symbols]</text>
+<g transform="translate(0,20)">
+<rect x="24.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">`</text>
+<rect x="96.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">!</text>
+<text x="119.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+1</text>
+<rect x="144.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">@</text>
+<text x="167.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+2</text>
+<rect x="192.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">#</text>
+<text x="215.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+3</text>
+<rect x="240.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">$</text>
+<text x="263.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+4</text>
+<rect x="288.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">%</text>
+<text x="311.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+5</text>
+<rect x="480.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">^</text>
+<text x="503.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+6</text>
+<rect x="528.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">&amp;</text>
+<text x="551.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+7</text>
+<rect x="576.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">*</text>
+<text x="599.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+8</text>
+<rect x="624.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">(</text>
+<text x="647.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+9</text>
+<rect x="672.0" y="24.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">)</text>
+<text x="695.0" y="63.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">Sft+0</text>
+<rect x="720.0" y="24.0" width="70.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="50.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">=</text>
+<rect x="24.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="240.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="288.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="528.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="576.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="624.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="72.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="72.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="98.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="215.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="240.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="263.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="288.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="311.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="336.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="359.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="432.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<text x="455.0" y="159.1" text-anchor="middle" font-family="monospace,Consolas" font-size="6.5" fill="#5070a0">enc</text>
+<rect x="480.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="503.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">-</text>
+<rect x="528.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="551.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="576.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="599.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">[</text>
+<rect x="624.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">]</text>
+<rect x="672.0" y="120.0" width="46.0" height="46.0" rx="4" fill="#d8eaf8" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">\</text>
+<rect x="720.0" y="120.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="146.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="24.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="59.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="96.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="119.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="144.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="167.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="192.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="227.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="264.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="299.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="336.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="359.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="432.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="455.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="480.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="515.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="552.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="587.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="624.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="647.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="672.0" y="168.0" width="46.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="695.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+<rect x="720.0" y="168.0" width="70.0" height="46.0" rx="4" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+<text x="755.0" y="194.7" text-anchor="middle" font-family="monospace,Consolas" font-size="12" fill="#1a2030" font-weight="600">▽</text>
+</g></g>
+  
+<g transform="translate(24,1062)">
+  <rect width="12" height="12" rx="2" fill="#d8eaf8"   stroke="#8899aa" stroke-width="0.8"/>
+  <text x="16" y="10" font-size="9" font-family="sans-serif" fill="#334">alpha</text>
+  <rect x="60" width="12" height="12" rx="2" fill="#c8e8c8"  stroke="#8899aa" stroke-width="0.8"/>
+  <text x="76" y="10" font-size="9" font-family="sans-serif" fill="#334">modifier</text>
+  <rect x="135" width="12" height="12" rx="2" fill="#ffc97a" stroke="#8899aa" stroke-width="0.8"/>
+  <text x="151" y="10" font-size="9" font-family="sans-serif" fill="#334">layer key</text>
+  <rect x="210" width="12" height="12" rx="2" fill="#fde8c0" stroke="#8899aa" stroke-width="0.8"/>
+  <text x="226" y="10" font-size="9" font-family="sans-serif" fill="#334">tap-dance</text>
+  <rect x="290" width="12" height="12" rx="2" fill="#e0e0e0" stroke="#8899aa" stroke-width="0.8"/>
+  <text x="306" y="10" font-size="9" font-family="sans-serif" fill="#334">encoder / transparent</text>
+</g>
+
+</svg>
